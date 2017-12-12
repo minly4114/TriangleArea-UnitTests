@@ -1,0 +1,8 @@
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.exe.config
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.exe
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.pdb
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.csprojResolveAssemblyReference.cache
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.csproj.CoreCompileInputs.cache
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.exe
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\obj\Debug\AreaTriangle.pdb
+E:\Visual Projects\tests\AreaTriangle\AreaTriangle\bin\Debug\AreaTriangle.xml
